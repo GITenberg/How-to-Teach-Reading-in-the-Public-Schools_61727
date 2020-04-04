@@ -1,11 +1,16 @@
 _repo: How-to-Teach-Reading-in-the-Public-Schools_61727
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 61727-h/images/cover.jpg
 creator:
   author:
     agent_name: Clark, S. H.
     gutenberg_agent_id: '51589'
     url: http://www.gutenberg.org/2009/agents/51589
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/61727#How-to-Teach-Reading-in-the-Public-Schools
 gutenberg_issued: '2020-04-01'
 gutenberg_type: Text
 identifiers:
